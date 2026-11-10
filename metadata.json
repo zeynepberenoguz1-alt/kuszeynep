@@ -1,0 +1,6 @@
+{
+  "name": "Gökyüzü Kanatları - Zıplayan Kuş Oyunu",
+  "description": "14-18 yaş için modern açık gökyüzü temalı, dokunma ve boşluk tuşuyla oynanan zıplayan kuş oyunu. Borulardan geç, puanları topla ve artan hızda rekor kır!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
